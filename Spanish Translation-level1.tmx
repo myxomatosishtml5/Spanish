@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_unknown" segtype="sentence" srclang="ES-ES"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Allí, cuando Laura pasea se da cuenta de toda la variedad de la ciudad.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191220T155443Z" creationid="fortmyxomatosis" creationdate="20191220T155443Z">
+        <seg>There when Laura is walking she takes in all the variety of the city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Allí, hay naturaleza y varios parques para hacer una buena barbacoa.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114015Z" creationid="fortmyxomatosis" creationdate="20200426T114015Z">
+        <seg>There, there is nature and several parks to make a good barbecue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Aquí se puede hacer barbacoa.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114036Z" creationid="fortmyxomatosis" creationdate="20200426T114036Z">
+        <seg>Here you can barbecue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Ella trabaja de administrativa en una oficina de Madrid, la capital de España.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191124T155757Z" creationid="fortmyxomatosis" creationdate="20191124T155704Z">
+        <seg>SHe worked as a clerk in a Madird Offcie, the Spanish Capitol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Ellos se llaman Nacho y Elvira.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T113941Z" creationid="fortmyxomatosis" creationdate="20200426T113941Z">
+        <seg>They are called Nacho and Elvira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Laura era una mujer de mediana edad.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114104Z" creationid="fortmyxomatosis" creationdate="20191124T155020Z">
+        <seg>Laura was a middle-aged woman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Laura para el coche en las afueras de Madrid.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114000Z" creationid="fortmyxomatosis" creationdate="20200426T114000Z">
+        <seg>Laura stops the car on the outskirts of Madrid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Los fines de semana sale con su grupo de amigas y amigos a pasar las tardes y las noches en su bar preferido.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191220T155010Z" creationid="fortmyxomatosis" creationdate="20191220T155010Z">
+        <seg>At the end of the week she left with her group of friends to spend the evening and night in her favourite bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Madrid es una ciudad con mucha cultura, mucha variedad y gente de todos los lugares del mundo.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191220T155130Z" creationid="fortmyxomatosis" creationdate="20191220T155130Z">
+        <seg>Madrid is a city with a lot of cultures, a large variety of people form all parts of the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Pero a veces, busca tranquilidad y por eso viaja algunos fines de semana a las afueras.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191220T155739Z" creationid="fortmyxomatosis" creationdate="20191220T155739Z">
+        <seg>But sometimes she looks for peace and therefore travels some weekends to the outskirts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Son amigos de Laura desde la infancia.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T113948Z" creationid="fortmyxomatosis" creationdate="20200426T113948Z">
+        <seg>They have been friends with Laura since childhood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Su sueldo no es malo, pero ella quiere un sueldo mejor.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191124T161504Z" creationid="fortmyxomatosis" creationdate="20191124T161504Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Trabaja mucho cada día y sale muy tarde de trabajar.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20191124T155958Z" creationid="fortmyxomatosis" creationdate="20191124T155837Z">
+        <seg>She worked hard every day and left very late in the evening.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Un fin de semana como otro cualquiera, Laura conduce el coche con dos personas más: un amigo y una amiga.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T113934Z" creationid="fortmyxomatosis" creationdate="20200426T113934Z">
+        <seg>On a weekend like any other, Laura drives the car with two other people: a friend and a friend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Vamos a sacar las bolsas.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114056Z" creationid="fortmyxomatosis" creationdate="20200426T114056Z">
+        <seg>Let's get the bags out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>–Estamos en las afueras de Madrid.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114030Z" creationid="fortmyxomatosis" creationdate="20200426T114030Z">
+        <seg>–We are on the outskirts of Madrid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>–Sí, está en el coche.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114046Z" creationid="fortmyxomatosis" creationdate="20200426T114046Z">
+        <seg>Yes, it's in the car.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>–dijo Nacho.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114023Z" creationid="fortmyxomatosis" creationdate="20200426T114023Z">
+        <seg>–Said Nacho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>–¿Dónde estamos, Laura?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114021Z" creationid="fortmyxomatosis" creationdate="20200426T114021Z">
+        <seg>"Where are we, Laura?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>–¿Tenemos suficiente comida para la barbacoa?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fortmyxomatosis" changedate="20200426T114040Z" creationid="fortmyxomatosis" creationdate="20200426T114040Z">
+        <seg>"Do we have enough food for the barbecue?"</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
